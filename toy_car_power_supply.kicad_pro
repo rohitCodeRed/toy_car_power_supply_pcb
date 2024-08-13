@@ -410,7 +410,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.25,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -420,7 +420,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.35,
         "via_diameter": 0.6,
         "via_drill": 0.4,
         "wire_width": 6
@@ -437,7 +437,7 @@
         "name": "power_input",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.35,
+        "track_width": 0.5,
         "via_diameter": 0.9,
         "via_drill": 0.5,
         "wire_width": 6
@@ -454,7 +454,7 @@
         "name": "power_output",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.35,
+        "track_width": 0.5,
         "via_diameter": 0.9,
         "via_drill": 0.5,
         "wire_width": 6
