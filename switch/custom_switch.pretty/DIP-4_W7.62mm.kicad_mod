@@ -47,6 +47,8 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp cdf1df61-e9c3-46bf-b4e1-d861ba039826))
   (pad "1" thru_hole rect (at 0 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp d6f76f5c-4358-4a13-9323-cc527f72c17f))
   (pad "2" thru_hole oval (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask") (tstamp 59a7d2e5-4228-4795-821f-0cc892dddac2))
+  (pad "3" thru_hole circle (at 0 2.54) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 7cc81933-480b-4279-9c30-b988ce263d96))
+  (pad "4" thru_hole circle (at 7.62 2.54) (size 1.524 1.524) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 42309e88-5baf-4236-8ccd-14a45ae2afa5))
   (model "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W7.62mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
